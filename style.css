@@ -1,0 +1,128 @@
+body {
+  background-color: #000000;
+  vertical-align: auto;
+}
+.textbox {
+  font-size: x-large;
+}
+body h1 {
+  font-size: 60px;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-top: auto;
+  color: #00AA00;
+  margin-bottom: 5px;
+}
+body h1:hover {
+  color: #00BB00;
+}
+body h3 {
+  color: #AAAAFF;
+  text-align: center;
+  margin-top: 0px;
+}
+body h3:hover {
+  color: #5555FF;
+}
+body p {
+  font-size: large;
+  color: rgb(94, 155, 134);
+  text-align: center;
+}
+body p:hover {
+  color: aqua;
+}
+.out {
+  color: aqua;
+  margin-top: 50px;
+  font-size: small;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-bottom: 12px;
+  padding-top: 12px;
+  background-color: cornflowerblue;
+}
+.example{
+  color: #AAAAFF;
+  font-size: large;
+}
+.screenshot {
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+}
+body a {
+  color: #FFAADD;
+  font-size: 20px;
+  text-decoration: none;
+}
+body a:hover {
+  text-decoration: underline;
+}
+.main {
+  display: block;
+}
+.nahian {
+  color: rgb(255, 230, 0);
+  font-style: normal;
+}
+.color {
+  color: #FF55FF;
+}
+.graphics {
+  color: #55FF55;
+}
+.adapter {
+  color: #5555FF;
+}
+.intro {
+  text-align: center;
+  color: darkkhaki;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-size: 20px;
+  line-height: 30px;
+  width: 1000px;
+}
+body button {
+  margin: auto;
+  height: 40px;
+  width: 100px;
+  border-radius: 6px;
+  color: red;
+  background-color: #00FF00;
+  border-style: solid;
+  margin-right: 15px;
+}
+.giga {
+  width: 200px;
+  height: 70px;
+  background-color: #0000EE;
+  font-weight: bold;
+  font-size: 15px;
+  color: #FFEECC;
+  transition: box-shadow 0.15s,
+    color 0.15s,
+      background-color 0.15s;
+}
+.giga:hover {
+  background-color: #FFEECC;
+  color: #0000EE;
+  box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.45);
+}
+.giga:active {
+  background-color: #EEDDBB;
+}
+.no {
+  border-radius: 20px;
+  box-shadow: 1px 1px 1px black;
+}
+.no:hover {
+  background-color: red;
+  color: #00FF00
+
+}
+body button:hover {
+  cursor: pointer;
+  background-color:  #00EE00;
+}
