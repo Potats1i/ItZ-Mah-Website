@@ -84,16 +84,6 @@ body a:hover {
   line-height: 30px;
   width: 1000px;
 }
-body button {
-  margin: auto;
-  height: 40px;
-  width: 100px;
-  border-radius: 6px;
-  color: red;
-  background-color: #00FF00;
-  border-style: solid;
-  margin-right: 15px;
-}
 .giga {
   width: 200px;
   height: 70px;
