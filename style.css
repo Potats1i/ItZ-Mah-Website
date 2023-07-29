@@ -2,9 +2,6 @@ body {
   background-color: #000000;
   vertical-align: auto;
 }
-.textbox {
-  font-size: x-large;
-}
 body h1 {
   font-size: 60px;
   text-align: center;
@@ -102,15 +99,6 @@ body a:hover {
 }
 .giga:active {
   background-color: #EEDDBB;
-}
-.no {
-  border-radius: 20px;
-  box-shadow: 1px 1px 1px black;
-}
-.no:hover {
-  background-color: red;
-  color: #00FF00
-
 }
 body button:hover {
   cursor: pointer;
