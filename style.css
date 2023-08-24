@@ -52,12 +52,10 @@ body a {
   color: #FFAADD;
   font-size: 20px;
   text-decoration: none;
+  display: block;
 }
 body a:hover {
   text-decoration: underline;
-}
-.main {
-  display: block;
 }
 .nahian {
   color: rgb(255, 230, 0);
